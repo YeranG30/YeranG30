@@ -1,6 +1,6 @@
 # Yeran Gamage
 
-AI agent security researcher. I find what breaks in deployed LLM systems.
+AI agent security researcher. 
 
 **Offensive research focus:** AI agent frameworks and ML infrastructure.
 
