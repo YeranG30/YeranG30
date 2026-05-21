@@ -1,19 +1,20 @@
 # Yeran Gamage
-
-AI agent security researcher. 
+AI agent security researcher.
 
 **Offensive research focus:** AI agent frameworks and ML infrastructure.
 
-**Research focus:** Instruction hierarchy violations, indirect prompt injection, 
+**Research focus:** Instruction hierarchy violations, indirect prompt injection,
 turn depth degradation, and tool call security in agentic pipelines.
 
 **Published work:**
-- 10 CVEs in AI Agents (sandbox escapes, SSRF, shell injection, 
-  auth bypass, arbitrary code execution)
-- [Indirect Prompt Injection in LLM Agent Frameworks: A Comparative Study]([link](https://github.com/YeranG30/llm-agent-security-research))
+- 18+ CVEs across OSS AI agent frameworks (sandbox escapes, SSRF, shell injection,
+  auth bypass, arbitrary code execution) (CVSS 6.5–10.0)
+- [Omission Constraints Decay While Commission Constraints Persist in Long-Context LLM Agents](https://arxiv.org/abs/2604.20911)
+  - 4,416 trials, 12 models, under review NeurIPS 2026. Cited in OWASP LLM Top 10 2026.
+- Indirect Prompt Injection in LLM Agent Frameworks: A Comparative Study
   - 3,274 trials across LangChain, MCP, and Anthropic API
 
-**Current:** B.S. Cybersecurity, USF. Red Team, USF CyberHerd. 
-Incoming GCP Security Engineer at Wells Fargo.
+**Current:** GCP Security Engineer at Wells Fargo. Incoming M.S. Computer Science (AI/ML), Georgia Tech, August 2026.
+HTB Certified Offensive AI Expert (COAE). USF CyberHerd red team.
 
-[Website](https://yerangamage.com) • [LinkedIn](https://www.linkedin.com/in/yerangamage/) • [CVEs](https://yerangamage.com/cves/)
+[Website](https://yerangamage.com) • [LinkedIn](https://www.linkedin.com/in/yerangamage/) • [CVEs](https://yerangamage.com/cves/) • [Google Scholar](your-link)
