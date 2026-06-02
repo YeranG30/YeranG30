@@ -14,7 +14,7 @@ turn depth degradation, and tool call security in agentic pipelines.
 - Indirect Prompt Injection in LLM Agent Frameworks: A Comparative Study
   - 3,274 trials across LangChain, MCP, and Anthropic API
 
-**Current:** GCP Security Engineer at Wells Fargo. Incoming M.S. Computer Science (AI/ML), Georgia Tech, August 2026.
+**Current:** Incoming M.S. Computer Science (AI/ML), Georgia Tech, August 2026.
 HTB Certified Offensive AI Expert (COAE). USF CyberHerd red team.
 
 [Website](https://yerangamage.com) • [LinkedIn](https://www.linkedin.com/in/yerangamage/) • [CVEs](https://yerangamage.com/cves/) • [Google Scholar](your-link)
